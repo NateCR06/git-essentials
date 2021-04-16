@@ -1,9 +1,5 @@
-# git-essentials
+# git-essentials / Git For Everybody
 
-##Deployment notes
+> This is a course to teach you how to use git
 
-##Staging notes
-
-##How to use this repo notes
-
-Now here are some changes that I should be able to see
+Course By Nathan
